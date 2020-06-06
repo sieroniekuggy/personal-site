@@ -94,7 +94,7 @@ export default function About() {
               data-sal-easing="ease"
               className="about__desc section__desc"
             >
-              I started coding in September 2017 and I am self-taught
+              I started coding in 2017 and I am self-taught
               developer. I have serious passion for modern looking websites with
               a little bit of animations. I love what I am doing and I am highly
               motivated to collaborate with someone. If you are up into some
