@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "styled-components"
-import skug from "../images/skug.png"
+// import skug from "../images/skug.png"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 const StyledAbout = styled.section`
@@ -94,7 +94,7 @@ export default function About() {
               data-sal-easing="ease"
               className="about__desc section__desc"
             >
-              I started coding in the September 2017 and I am self-taught
+              I started coding in September 2017 and I am self-taught
               developer. I have serious passion for modern looking websites with
               a little bit of animations. I love what I am doing and I am highly
               motivated to collaborate with someone. If you are up into some
@@ -187,14 +187,14 @@ export default function About() {
               </li>
             </ul>
           </div>
-          <img
-            data-sal="zoom-in"
-            data-sal-delay="400"
-            data-sal-easing="ease"
-            src={skug}
-            alt="Sieroniekuggy"
-            loading="lazy"
-          />
+          // <img
+          //   data-sal="zoom-in"
+          //   data-sal-delay="400"
+          //   data-sal-easing="ease"
+          //   src={skug}
+          //   alt="Sieroniekuggy"
+          //   loading="lazy"
+          // />
         </div>
       </div>
     </StyledAbout>
