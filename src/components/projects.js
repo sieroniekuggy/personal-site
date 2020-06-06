@@ -128,8 +128,8 @@ export default function Work() {
                 title="Pagetify"
                 bgwebm={pagetifyWebM}
                 bgmp4={pagetifyMP4}
-                github="https://github.com/bartzalewski/pagetify"
-                external="https://pagetify.com/"
+                github="#!"
+                external="#!"
               />
             </div>
             <div
@@ -142,8 +142,8 @@ export default function Work() {
                 title="Schoolify"
                 bgwebm={schoolifyWebM}
                 bgmp4={schoolifyMP4}
-                github="https://github.com/bartzalewski/schoolify"
-                external="https://schoolify.app/"
+                github="#!"
+                external="#!"
               />
             </div>
             <div
@@ -157,7 +157,7 @@ export default function Work() {
                 bgwebm={dojrzewajWebM}
                 bgmp4={dojrzewajMP4}
                 github="#!"
-                external="https://dojrzewaj.pl/"
+                external="#!"
               />
             </div>
             <div
@@ -170,7 +170,7 @@ export default function Work() {
                 bgwebm={centrummotoWebM}
                 bgmp4={centrummotoMP4}
                 github="#!"
-                external="https://centrummoto.pl/"
+                external="#!"
               />
             </div>
             <div
@@ -183,8 +183,8 @@ export default function Work() {
                 title="coza500plus.pl"
                 bgwebm={cz5pWebM}
                 bgmp4={cz5pMP4}
-                github="https://github.com/bartzalewski/coza500plus"
-                external="https://coza500plus.pl/"
+                github="#!"
+                external="#!"
               />
             </div>
             <div
@@ -197,8 +197,8 @@ export default function Work() {
                 title="Telean"
                 bgwebm={teleanWebM}
                 bgmp4={teleanMP4}
-                github="https://github.com/bartzalewski/telean-website"
-                external="https://telean-website.herokuapp.com/"
+                github="#!"
+                external="#!"
               />
             </div>
             <div
@@ -210,7 +210,7 @@ export default function Work() {
                 title="Dark PayPal"
                 bgwebm={darkpaypalWebM}
                 bgmp4={darkpaypalMP4}
-                github="https://github.com/bartzalewski/darkness"
+                github="#!"
                 external="#!"
               />
             </div>
@@ -224,8 +224,8 @@ export default function Work() {
                 title="My first portfolio"
                 bgwebm={bartzalewskiV1WebM}
                 bgmp4={bartzalewskiV1MP4}
-                github="https://github.com/bartzalewski/bartzalewski.com-v1"
-                external="https://bartzalewski-v1.herokuapp.com/"
+                github="#!"
+                external="#!"
               />
             </div>
           </div>
