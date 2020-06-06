@@ -118,7 +118,7 @@ export default function Contact() {
     const failure = document.getElementById("failure")
     axios({
       method: "POST",
-      url: "https://bartzalewski-v2-api.herokuapp.com/send",
+      url: "https://skug-site.herokuapp.com/send",
       data: {
         name: name,
         email: email,
