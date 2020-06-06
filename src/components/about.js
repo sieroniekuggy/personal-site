@@ -195,7 +195,7 @@ export default function About() {
           //   alt="Sieroniekuggy"
           //   loading="lazy"
           // />
-        </div>
+        // </div>
       </div>
     </StyledAbout>
   )
