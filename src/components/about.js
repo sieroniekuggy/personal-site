@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "styled-components"
-// import skug from "../images/skug.png"
+import skug from "../images/skug.png"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 const StyledAbout = styled.section`
@@ -187,15 +187,15 @@ export default function About() {
               </li>
             </ul>
           </div>
-          // <img
-          //   data-sal="zoom-in"
-          //   data-sal-delay="400"
-          //   data-sal-easing="ease"
-          //   src={skug}
-          //   alt="Sieroniekuggy"
-          //   loading="lazy"
-          // />
-        // </div>
+          <img
+            data-sal="zoom-in"
+            data-sal-delay="400"
+            data-sal-easing="ease"
+            src={skug}
+            alt="Sieroniekuggy"
+            loading="lazy"
+          />
+        </div>
       </div>
     </StyledAbout>
   )
