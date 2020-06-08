@@ -22,19 +22,25 @@
 
 1. Install [Node.js](https://nodejs.org)
 
-2. CD to the forked repo
+2. Install the Gatsby CLI
+
+   ```
+   npm install -g gatsby-cli
+   ```
+
+3. CD to the forked repo
 
    ```
    cd personal-site
    ```
 
-3. Install the packages
+4. Install the packages
 
    ```
    npm install
    ```
    
-4. Start the development server
+5. Start the development server
 
    ```
    npm start
@@ -49,6 +55,8 @@
 As I'm making this repo public for all, you can easily get it and use it how you want. But, there is a must. You need to attribute me. You must leave alone the attribution under the copyright statement ("Created By Silence Ronald Kugotsi").
 
 I created this website only for myself, for portfolio purposes. Now, you can just download it and use it for your purposes.
+
+### TL;DR
 
 You can fork this repository, but please give me proper credit by linking back to my website - [sieroniekuggy.co.zw](https://www.sieroniekuggy.co.zw).
 
