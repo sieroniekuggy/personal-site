@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Silence Ronald | Full-Stack Developer`,
-    author: `Silence Ronald Kugotsi`,
-    role: `Full-Stack Developer & DevOps Specialist`,
+    author: `Silence Ronald`,
+    role: `Full-Stack Developer`,
   },
   plugins: [
     {
