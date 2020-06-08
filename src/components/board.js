@@ -84,7 +84,7 @@ const Board = () => {
           bgwebm={pagetifyWebM}
           bgmp4={pagetifyMP4}
           title="Pagetify"
-          url="https://pagetify.com/"
+          url="#!"
         />
       </div>
       <div
@@ -97,7 +97,7 @@ const Board = () => {
           bgwebm={schoolifyWebM}
           bgmp4={schoolifyMP4}
           title="Schoolify"
-          url="https://schoolify.app/"
+          url="#!"
         />
       </div>
       <div
@@ -110,7 +110,7 @@ const Board = () => {
           bgwebm={dojrzewajWebM}
           bgmp4={dojrzewajMP4}
           title="dojrzewaj.pl"
-          url="https://dojrzewaj.pl/"
+          url="#!"
         />
       </div>
       <div
@@ -123,7 +123,7 @@ const Board = () => {
           bgwebm={centrummotoWebM}
           bgmp4={centrummotoMP4}
           title="Centrum Moto"
-          url="https://centrummoto.pl/"
+          url="#!"
         />
       </div>
     </StyledBoard>
