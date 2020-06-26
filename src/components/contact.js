@@ -118,7 +118,7 @@ export default function Contact() {
     const failure = document.getElementById("failure")
     axios({
       method: "POST",
-      url: "https://skug-site.herokuapp.com/send",
+      url: "https://formspree.io/mzbjgjkb",
       data: {
         name: name,
         email: email,
