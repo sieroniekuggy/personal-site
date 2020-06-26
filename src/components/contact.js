@@ -133,7 +133,7 @@ export default function Contact() {
       }
     })
   }
-
+  
   useEffect(() => {
     const inputs = document.querySelectorAll(".input__field-input")
 
