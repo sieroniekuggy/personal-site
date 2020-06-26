@@ -112,7 +112,7 @@ const Footer = () => {
               />
             </OutboundLink>
             <a
-              href="mailto:sieroniekuggy@gmail.com"
+              href="https://wa.me/8615653242335"
               className="footer__link"
               title="Email"
             >
@@ -145,7 +145,7 @@ const Footer = () => {
               data-sal-easing="ease"
               className="footer__copy"
             >
-              Copyright {new Date().getFullYear()} &copy; sieroniekuggy
+              Copyright {new Date().getFullYear()} &copy; CodeTrojans
             </p>
             <p
               data-sal="fade"
