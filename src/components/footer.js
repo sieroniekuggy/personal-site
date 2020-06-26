@@ -145,7 +145,7 @@ const Footer = () => {
               data-sal-easing="ease"
               className="footer__copy"
             >
-              Copyright {new Date().getFullYear()} &copy; CodeTrojans
+              Copyright {new Date().getFullYear()} &copy; sieroniekuggy
             </p>
             <p
               data-sal="fade"
