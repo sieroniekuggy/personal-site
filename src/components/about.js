@@ -175,7 +175,7 @@ export default function About() {
               </li>
               <li className="about__skill">
                 <FontAwesomeIcon
-                  icon={["fab", "figma"]}
+                  icon={["fab", "sketch"]}
                   className="skill__icon"
                 />
                 <span>Sketch</span>
