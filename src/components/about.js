@@ -116,10 +116,10 @@ export default function About() {
             >
               <li className="about__skill">
                 <FontAwesomeIcon
-                  icon={["fab", "react"]}
+                  icon={["fab", "laravel"]}
                   className="skill__icon"
                 />
-                <span>React</span>
+                <span>Laravel</span>
               </li>
               <li className="about__skill">
                 <FontAwesomeIcon
@@ -148,6 +148,12 @@ export default function About() {
                   className="skill__icon"
                 />
                 <span>HTML</span>
+              </li> <li className="about__skill">
+                <FontAwesomeIcon
+                  icon={["fab", "css3-alt"]}
+                  className="skill__icon"
+                />
+                <span>CSS3</span>
               </li>
               <li className="about__skill">
                 <FontAwesomeIcon
@@ -179,7 +185,56 @@ export default function About() {
                   icon={["fab", "adobe"]}
                   className="skill__icon"
                 />
-                <span>Adobe Xd</span>
+                <span>Adobe InDesign</span>
+              </li>
+              <li className="about__skill">
+                <FontAwesomeIcon
+                  icon={["fab", "adobe"]}
+                  className="skill__icon"
+                />
+                <span>Adobe Photoshop</span>
+              </li>
+              <li className="about__skill">
+                <FontAwesomeIcon
+                  icon={["fab", "adobe"]}
+                  className="skill__icon"
+                />
+                <span>Adobe Illustrator</span>
+              </li>
+              <li className="about__skill">
+                <FontAwesomeIcon
+                  icon={["fab", "wordpress"]}
+                  className="skill__icon"
+                />
+                <span>Wordpress</span>
+              </li>
+              <li className="about__skill">
+                <FontAwesomeIcon
+                  icon={["fab", "magento"]}
+                  className="skill__icon"
+                />
+                <span>Magento</span>
+              </li>
+              <li className="about__skill">
+                <FontAwesomeIcon
+                  icon={["fab", "mdb"]}
+                  className="skill__icon"
+                />
+                <span>MDB</span>
+              </li>
+              <li className="about__skill">
+                <FontAwesomeIcon
+                  icon={["fab", "vuejs"]}
+                  className="skill__icon"
+                />
+                <span>VueJs</span>
+              </li>
+              <li className="about__skill">
+                <FontAwesomeIcon
+                  icon={["fab", "react"]}
+                  className="skill__icon"
+                />
+                <span>React</span>
               </li>
               <li className="about__skill skill__jquery">
                 <FontAwesomeIcon icon="cross" className="skill__icon" />
