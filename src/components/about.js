@@ -178,28 +178,28 @@ export default function About() {
                   icon={["fab", "figma"]}
                   className="skill__icon"
                 />
-                <span>Figma</span>
+                <span>Sketch</span>
               </li>
               <li className="about__skill">
                 <FontAwesomeIcon
                   icon={["fab", "adobe"]}
                   className="skill__icon"
                 />
-                <span>Adobe InDesign</span>
+                <span>InDesign</span>
               </li>
               <li className="about__skill">
                 <FontAwesomeIcon
                   icon={["fab", "adobe"]}
                   className="skill__icon"
                 />
-                <span>Adobe Photoshop</span>
+                <span>Photoshop</span>
               </li>
               <li className="about__skill">
                 <FontAwesomeIcon
                   icon={["fab", "adobe"]}
                   className="skill__icon"
                 />
-                <span>Adobe Illustrator</span>
+                <span>Illustrator</span>
               </li>
               <li className="about__skill">
                 <FontAwesomeIcon
