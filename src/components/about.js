@@ -241,14 +241,6 @@ export default function About() {
                 <span>jQuery</span>
               </li>
             </ul>
-            <img
-            data-sal="zoom-in"
-            data-sal-delay="400"
-            data-sal-easing="ease"
-            src={skug}
-            alt="Sieroniekuggy"
-            loading="lazy"
-          />
           </div>
           <img
             data-sal="zoom-in"
