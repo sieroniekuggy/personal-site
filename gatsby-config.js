@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Silence Ronald | Full-Stack Developer`,
-    author: `Silence Ronald`,
-    role: `Full-Stack Developer`,
+    title: `Bart Zalewski | Front-End Developer`,
+    author: `Bart Zalewski`,
+    role: `Front-End Developer`,
   },
   plugins: [
     {
@@ -17,6 +17,13 @@ module.exports = {
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-scroll-reveal`,
     {
+      resolve: `gatsby-source-contentful`,
+      options: {
+        spaceId: process.env.CONTENTFUL_SPACE_ID,
+        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
@@ -28,8 +35,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Silence Ronald | Full-Stack Developer`,
-        short_name: `Silence Ronald`,
+        name: `Bart Zalewski | Front-End Developer`,
+        short_name: `Bart Zalewski`,
         start_url: `/`,
         background_color: `#02D463`,
         theme_color: `#02D463`,
